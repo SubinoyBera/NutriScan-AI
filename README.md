@@ -19,8 +19,8 @@ This is a **Streamlit Web Application** that uses **Google's Vision Pro model: G
 1. **Clone the Repository**
 
    ```cmd
-   git clone https://github.com/SubinoyBera/gemini-health-analyzer.git
-   cd gemini-health-analyzer
+   git clone https://github.com/SubinoyBera/NutriScan-AI.git
+   cd NutriScan-AI
    ```
 
 2. **Create and Activate Virtual Environment (Optional but Recommended)**
