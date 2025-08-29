@@ -57,9 +57,9 @@ Then open the local URL shown in your terminal (usually `http://localhost:8501`)
 2. Click on "Start Analysis".
 3. Get a detailed nutrition report with calorie count, macronutrients, health rating, and much more! <br>
 <br>
-APPLICATION IMAGE
+<center> 🖼 Application Image : - 
 <img src="images/app.png">
-
+</center>
 <br>
 
 <b>🙏 🎗️ THANK YOU !! :) <br>
